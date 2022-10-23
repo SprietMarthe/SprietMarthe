@@ -4,9 +4,8 @@ Languages and Tools:
 
 ![My Skills](https://skills.thijs.gg/icons?i=java,javascript,py,react,css,dart,firebase,flutter,git,html,spring,mysql,postgres,mongodb,nodejs&theme=light)
 
-- 🔭 I’m currently in my master Industrial Engineering ICT - KULeuven
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me: marthe.spriet2001@gmail.com
+- 📫 I’m currently in my master Industrial Engineering ICT - KULeuven
+- 💬 How to reach me: marthe.spriet2001@gmail.com
 - ⚡ Hobby's: Programming, volleybal, scubadiving
 <!--
 **SprietMarthe/SprietMarthe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
